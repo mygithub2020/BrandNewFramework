@@ -59,6 +59,7 @@
 
    <properties>
        <testFile>runner32.xml</testFile>
+       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
    </properties>
 
 </project>

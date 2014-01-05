@@ -57,6 +57,8 @@
         </plugins>
     </build>
 
-
+   <properties>
+       <testFile>runner32.xml</testFile>
+   </properties>
 
 </project>

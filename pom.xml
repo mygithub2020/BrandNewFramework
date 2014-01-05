@@ -24,7 +24,7 @@
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
                 <version>6.8.5</version>
-                <scope>test</scope>
+                <!--<scope>test</scope>-->
             </dependency>
             <dependency>
                 <groupId>org.seleniumhq.selenium</groupId>
@@ -38,6 +38,25 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+<!--just added this profiles part-->
+    <profiles>
+        <profile>
+            <id>all</id>
+            <modules>
+                <module>UniversalModule</module>
+                <module>CraigsBaseFunction</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>craigslist-1</id>
+            <modules>
+                <module>UniversalModule</module>
+                <module>CraigsBaseFunction</module>
+            </modules>
+        </profile>
+    </profiles>
+
 
     <build>
         <plugins>
@@ -59,8 +78,6 @@
             </plugin>
         </plugins>
     </build>
-
-
 
 
 </project>

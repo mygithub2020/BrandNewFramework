@@ -1,8 +1,16 @@
 /**
  * Created by Sharma on 1/4/14.
  */
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
+import qa.Base;
+
 public class CraigsBaseFunctions extends Base
 {
+
+
+
+
     public static String siteUrl = "http://newyork.craigslist.org/";
     //Login Information
     public static String emailLogIn = "andwhat08@gmail.com";

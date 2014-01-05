@@ -22,11 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="CnnBaseFunctions" />
         <module name="CraigsBaseFunction" />
         <module name="UniversalModule" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="CnnBaseFunctions" target="1.7" />
       <module name="CraigsBaseFunction" target="1.7" />
       <module name="FinalTestFramework" target="1.7" />
       <module name="UniversalModule" target="1.7" />

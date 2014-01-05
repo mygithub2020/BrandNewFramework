@@ -24,9 +24,9 @@
         <parameter name="browser" value="firefox"/>
         <!--<parameter name="browser" value="safari"/>-->
         <classes>
-            <class name="JobsLinkTest"/>
-            <!-- <class name="Registration_Test"/>-->
-            <class name="LogInLogOutTest"/>
+            <!--<class name="JobsLinkTest"/>-->
+            <!--&lt;!&ndash; <class name="Registration_Test"/>&ndash;&gt;-->
+            <!--<class name="LogInLogOutTest"/>-->
         </classes>
     </test>
 

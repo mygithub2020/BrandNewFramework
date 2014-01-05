@@ -50,7 +50,7 @@
                 <version>2.14.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suitXmlFile>target/test-classes/${testFile}</suitXmlFile>
+                        <suitXmlFile>target/test-classes/${testFileCraigList}</suitXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
@@ -58,7 +58,7 @@
     </build>
 
    <properties>
-       <testFile>runner32.xml</testFile>
+       <testFileCraigList>runner32.xml</testFileCraigList>
        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
    </properties>
 

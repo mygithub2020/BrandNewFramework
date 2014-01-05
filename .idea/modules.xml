@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CnnBaseFunctions/CnnBaseFunctions.iml" filepath="$PROJECT_DIR$/CnnBaseFunctions/CnnBaseFunctions.iml" />
       <module fileurl="file://$PROJECT_DIR$/CraigsBaseFunction/CraigsBaseFunction.iml" filepath="$PROJECT_DIR$/CraigsBaseFunction/CraigsBaseFunction.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinalTestFramework.iml" filepath="$PROJECT_DIR$/FinalTestFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniversalModule/UniversalModule.iml" filepath="$PROJECT_DIR$/UniversalModule/UniversalModule.iml" />

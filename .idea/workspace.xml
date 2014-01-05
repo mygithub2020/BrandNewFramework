@@ -1057,7 +1057,11 @@
       <created>1388962328187</created>
       <updated>1388962328187</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lets see if I can run this on Jenkins&#10;">
+      <created>1388962435374</created>
+      <updated>1388962435374</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">

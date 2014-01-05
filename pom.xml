@@ -64,6 +64,14 @@
                 <module>CnnBaseFunctions</module>
             </modules>
         </profile>
+        <profile>
+            <id>media</id>
+            <modules>
+                <module>UniversalModule</module>
+                <module>CraigsBaseFunction</module>
+                <module>CnnBaseFunctions</module>
+            </modules>
+        </profile>
     </profiles>
 
 

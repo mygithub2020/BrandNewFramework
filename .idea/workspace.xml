@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a661405-b493-4907-b844-dbcf16df78ed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CraigsBaseFunction/src/main/java/CraigsBaseFunctions.java" afterPath="$PROJECT_DIR$/CraigsBaseFunction/src/main/java/CraigsBaseFunctions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CraigsBaseFunction/src/test/java/LogInLogOutTest.java" afterPath="$PROJECT_DIR$/CraigsBaseFunction/src/test/java/LogInLogOutTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CraigsBaseFunction/pom.xml" afterPath="$PROJECT_DIR$/CraigsBaseFunction/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CraigsBaseFunction/src/test/Resources/runner32.xml" afterPath="$PROJECT_DIR$/CraigsBaseFunction/src/test/Resources/runner32.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FinalTestFramework.iws" />
@@ -106,6 +99,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="51" selection-start="2477" selection-end="2477" vertical-scroll-proportion="0.875" vertical-offset="714" max-vertical-offset="1768">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="CraigsBaseFunctions.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CraigsBaseFunction/src/main/java/CraigsBaseFunctions.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,15 +123,6 @@
         <entry file="file://$PROJECT_DIR$/CnnBaseFunctions/src/main/java/CnnBase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="4" column="2" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CraigsBaseFunction/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="12" selection-start="1954" selection-end="1954" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1190">
               <folding />
             </state>
           </provider>
@@ -178,10 +171,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CnnBaseFunctions/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="43" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.7518382" vertical-offset="84" max-vertical-offset="1173">
+            <state line="29" column="43" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="1173">
               <folding />
             </state>
           </provider>
@@ -228,11 +221,11 @@
         <option value="$PROJECT_DIR$/CnnBaseFunctions/src/test/java/CnnLogInTest.java" />
         <option value="$PROJECT_DIR$/CraigsBaseFunction/src/test/Resources/runner32.xml" />
         <option value="$PROJECT_DIR$/CnnBaseFunctions/src/test/ResourcesCnn/runner33.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/CnnBaseFunctions/pom.xml" />
         <option value="$PROJECT_DIR$/CraigsBaseFunction/pom.xml" />
         <option value="$PROJECT_DIR$/CnnBaseFunctions/src/main/java/CnnBase.java" />
         <option value="$PROJECT_DIR$/CraigsBaseFunction/src/main/java/CraigsBaseFunctions.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -249,6 +242,30 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="FinalTestFramework" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="FinalTestFramework" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -1029,7 +1046,11 @@
       <created>1388942264955</created>
       <updated>1388942264955</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lets see if I can run this on Jenkins&#10;">
+      <created>1388961136540</created>
+      <updated>1388961136540</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1393,13 +1414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="41" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1632">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CraigsBaseFunction/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="12" selection-start="1954" selection-end="1954" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1190">
@@ -1425,7 +1439,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CnnBaseFunctions/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="43" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.7518382" vertical-offset="84" max-vertical-offset="1173">
+        <state line="29" column="43" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="51" selection-start="2477" selection-end="2477" vertical-scroll-proportion="0.875" vertical-offset="714" max-vertical-offset="1768">
           <folding />
         </state>
       </provider>
